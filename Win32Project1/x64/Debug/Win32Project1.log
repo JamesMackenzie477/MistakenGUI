@@ -1,0 +1,12 @@
+﻿  Mistaken.cpp
+d:\projects\drivers\win32project1\win32project1\mistaken.cpp(33): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+d:\projects\drivers\win32project1\win32project1\mistaken.cpp(39): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+d:\projects\drivers\win32project1\win32project1\mistaken.cpp(61): warning C4244: 'initializing': conversion from 'FLOAT' to 'INT', possible loss of data
+d:\projects\drivers\win32project1\win32project1\mistaken.cpp(71): warning C4244: 'argument': conversion from 'float' to 'INT', possible loss of data
+d:\projects\drivers\win32project1\win32project1\mistaken.cpp(110): warning C4244: 'initializing': conversion from 'FLOAT' to 'INT', possible loss of data
+d:\projects\drivers\win32project1\win32project1\mistaken.cpp(112): warning C4244: 'argument': conversion from 'float' to 'INT', possible loss of data
+d:\projects\drivers\win32project1\win32project1\mistaken.cpp(154): warning C4244: 'initializing': conversion from 'FLOAT' to 'INT', possible loss of data
+d:\projects\drivers\win32project1\win32project1\mistaken.cpp(156): warning C4244: 'argument': conversion from 'float' to 'INT', possible loss of data
+d:\projects\drivers\win32project1\win32project1\mistaken.cpp(158): warning C4244: 'argument': conversion from 'float' to 'INT', possible loss of data
+  Win32Project1.vcxproj -> D:\Projects\Drivers\Win32Project1\x64\Debug\Win32Project1.dll
+  Win32Project1.vcxproj -> D:\Projects\Drivers\Win32Project1\x64\Debug\Win32Project1.pdb (Full PDB)
